@@ -8,9 +8,7 @@
    
 &nbsp;&nbsp; - 🔭 Working in personal projects.
 
-&nbsp;&nbsp; - 💕 In love with Firebase, Angular and Symfony.
-
-&nbsp;&nbsp; - 💼 I am currently working as a senior developer
+&nbsp;&nbsp; - 💼 Working on cpp and php stuff
 
 &nbsp;&nbsp; - 🐕 These two little monsters on the left are Mus and Sam.
 
@@ -19,11 +17,4 @@
 
 ## Contact Me
 
-- 📫 **marcdecline@riseup.net** 
-
-## You can find me at:
-
-- [Twitter](https://twitter.com/marcdecline)
-- [Instagram](https://instagram.com/marcdecline)
-- [Codepen](https://codepen.io/marcdecline)
-- [StackOverflow](https://stackoverflow.com/users/6850012/marcdecline)
+- 📫 **murk@riseup.net** 
