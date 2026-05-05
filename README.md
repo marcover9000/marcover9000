@@ -10,10 +10,8 @@
 
 &nbsp;&nbsp; - 💼 Working on cpp and php stuff
 
-&nbsp;&nbsp; - 🐕 These two little monsters on the left are Mus and Sam.
 
-
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
 
 ## Contact Me
 
