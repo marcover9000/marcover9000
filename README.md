@@ -6,12 +6,16 @@
 
 
    
-&nbsp;&nbsp; - 🔭 Working in personal projects.
+&nbsp;&nbsp; - PHP . Symfony / CakePHP / Slim
 
-&nbsp;&nbsp; - 💼 Working on cpp and php stuff
+&nbsp;&nbsp; - Js/Ts . Angular / Vue.js
+
+&nbsp;&nbsp; - C/Cpp . Raylib
 
 
-<br /><br /><br /><br /><br /><br /><br /><br />
+
+
+<br /><br /><br /><br /><br /><br /><br />
 
 ## Contact Me
 
