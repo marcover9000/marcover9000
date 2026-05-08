@@ -1,4 +1,4 @@
-# Hi 👋, I'm Marc
+# Hi 🤙, I'm Marc
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&size=17&multiline=true&lines=Btw%2C+I+use+Arch)](https://git.io/typing-svg)
 
 
@@ -12,11 +12,14 @@
 
 &nbsp;&nbsp; - C/Cpp . Raylib
 
+&nbsp;&nbsp; - Python . Django / Flask
 
+&nbsp;&nbsp; - Rust
 
+<br /><br /><br />
+<small>~~[and yes, over9000 is for the meme](https://www.youtube.com/watch?v=TBtpyeLxVkI)~~<small>
+<br /><br />
 
-<br /><br /><br /><br /><br /><br /><br />
-
-## Contact Me
+## write me cute things
 
 - 📫 **murk@riseup.net** 
