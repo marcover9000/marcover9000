@@ -6,17 +6,15 @@
 
 
    
-&nbsp;&nbsp; - PHP . Symfony / CakePHP / Slim
+&nbsp;&nbsp;
 
-&nbsp;&nbsp; - Js/Ts . Angular / Vue.js
+&nbsp;&nbsp;
 
-&nbsp;&nbsp; - C/Cpp . Raylib
+&nbsp;&nbsp;
 
-&nbsp;&nbsp; - Python . Django / Flask
+&nbsp;&nbsp;
 
-&nbsp;&nbsp; - Rust
-
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br />
 <small>~~[and yes, over9000 is for the meme](https://www.youtube.com/watch?v=17zNW-wz35E)~~<small>
 <br /><br />
 
