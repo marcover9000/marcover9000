@@ -17,7 +17,7 @@
 &nbsp;&nbsp; - Rust
 
 <br /><br /><br /><br />
-<small>~~[and yes, over9000 is for the meme](https://www.youtube.com/watch?v=TBtpyeLxVkI)~~<small>
+<small>~~[and yes, over9000 is for the meme](https://www.youtube.com/watch?v=17zNW-wz35E)~~<small>
 <br /><br />
 
 ## write me cute things
