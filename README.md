@@ -15,8 +15,6 @@
 &nbsp;&nbsp;
 
 <br /><br /><br /><br /><br />
-<br /><br />
 
-## write me nasty things
 
 - 📫 **murk@riseup.net** 
